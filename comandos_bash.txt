@@ -1,0 +1,3 @@
+ls : Lista o que contem dentro do diretorio 
+cd : Move entre diretorio
+pwd : Mostra o caminho do diretorio que esta
