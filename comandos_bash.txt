@@ -1,3 +1,6 @@
 ls : Lista o que contem dentro do diretorio 
 cd : Move entre diretorio
 pwd : Mostra o caminho do diretorio que esta
+cat : Exibe o conteudo do arquivo
+rm : Remove arquivo do diretório
+
