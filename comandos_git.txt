@@ -18,7 +18,11 @@ git log: Mostra todos o historico de commit que foi salvo
 . : Pasta Atual. dietório atual
 * : Tudo do diretorio atual
 git diff : Diferença do estado atual em relação ao commit anterior
-
+git reset: Volta no tempo (desfaz commit/alteração)
+git checkout: Você muda para outra branch.
+git checkout -b : Aqui você cria uma branch nova e já entra nela.
+git branch: Só lista as branchs que existem no seu repositorio local.
+git merge: Mescla as blanch, as blanch informada
 
 ## FLUXO DE TRABALHO##
 1- Criar o diretorio(pasta)
