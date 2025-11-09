@@ -5,3 +5,5 @@ cat : Exibe o conteudo do arquivo
 rm : Remove arquivo do diretório
 rm -rf :  Remove de forma recursiva e forçada de todos os diretorios
 
+foda-se
+
