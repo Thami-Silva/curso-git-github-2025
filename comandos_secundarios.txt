@@ -2,3 +2,12 @@ Esse arquivo contém informacoes adicionairs para o git
 
 -Primeiro comando
 -Segundo comando
+
+#Comandos mais genéricos
+-comandos estranhos
+
+#Mais comandos!!!
+
+eqweqweqw
+qweqweqwe
+qwqweqweqwe
