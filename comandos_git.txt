@@ -1,17 +1,17 @@
 ctrl + l: Limpa o terminal
 
 ls : Lista o que contem dentro do diretorio 
-cd :   Muda de diretorio
+cd :  Muda de diretorio
 pwd : Mostra o caminho do diretorio que esta
 mkdir : Cria uma pasta nova
 ls -a : Mostra arquivos ocultos
-cd .. :        Volta uma pasta acima
-cat :              Le o que contem no arquivo
-git init .        : Cria uma pasta git, um repositorio.
+cd .. : Volta uma pasta acima
+cat : 	Le o que contem no arquivo
+git init . : Cria uma pasta git, um repositorio.
 rm -rf .git: Exclue a pasta git
 git status: Mostra como esta o diretorio
 git add . : Adiciona o que queremos que ira para o commit (ele prepara/sinaliza o que ira entrar no "chekpoint")
-git commit -m: Mensagem que explica o que você fez
+git commit -m: 	Mensagem que explica o que você fez
 git config --global user.email: Configurar o e-mail que vai aparecer nos commits
 git config --global user.name: Configurar o nome que vai aparecer nos commits
 git log: Mostra todos o historico de commit que foi salvo
