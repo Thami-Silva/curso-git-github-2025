@@ -23,6 +23,8 @@ git checkout: Você muda para outra branch.
 git checkout -b : Aqui você cria uma branch nova e já entra nela.
 git branch: Só lista as branchs que existem no seu repositorio local.
 git merge: Mescla as blanch, as blanch informada
+teste
+
 
 ## FLUXO DE TRABALHO##
 1- Criar o diretorio(pasta)
