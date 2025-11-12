@@ -8,6 +8,6 @@ Segue o link:
 [Curso Git 2025] (https://youtube.com/@teomewhy)
 ----
 
-Pessoas participantes
-Thamires
-Teste
+Atualizando o readme conforme a aula informada
+
+Verificando a atualização
